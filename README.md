@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Renan Silva
+# 👋 Howdy, I’m Renan Silva
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning HTML/CSS/JS, Processing & P5
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/renan-andrade-silva/ "LinkedIn")
