@@ -1,7 +1,12 @@
 # 👋 Howdy, I’m Renan Silva
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML/CSS/JS, Processing & P5
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/renan-andrade-silva/ "LinkedIn")
+> **Click [here](https://renans2.github.io/my-front-end-projects/ "renans2.github.io/my-front-end-projects") to visit my website dedicated to `my-front-end-projects`, where I develop games and apps**
+- 👀 I’m interested in **Software Development**
+- :school: I'm currently **studying Computer Science** at the University
+- :pencil: I’m currently learning **HTML/CSS/JS**, **Processing** & **P5**
+- :heart: I love to make **2D graphics/animations/generative art** and **develop my personal coding projects**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/renan-andrade-silva/ "LinkedIn")**
+
+#### :computer: I've been in touch with these technologies:
 <img align="left" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
 <img align="left" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" />
 <img align="left" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
