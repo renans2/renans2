@@ -17,6 +17,11 @@
 <img align="left" width="70px" title="C"          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" width="70px" title="Haskell"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
 
+<br><br><br><br>
+<img width="800px" src="output2.gif" />
+<br>
+`matrix digital rain made by me :)`
+
 <!---
 renans2/renans2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
