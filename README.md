@@ -7,19 +7,20 @@
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/renan-andrade-silva/ "LinkedIn")**
 
 #### :computer: I've been in touch with these technologies:
-<img align="left" width="60px" title="Python"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" width="60px" title="Java"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" width="60px" title="JQuery"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
-<img align="left" width="60px" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" width="60px" title="HTML"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" width="60px" title="CSS"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" width="60px" title="C"          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" width="60px" title="Haskell"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
-<img align="left" width="60px" title="p5.js"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
-<img align="left" width="60px" title="Processing" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" />
+<img align="left" width="55px" title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" width="55px" title="Python"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" width="55px" title="Java"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" width="55px" title="JQuery"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+<img align="left" width="55px" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="55px" title="HTML"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="55px" title="CSS"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" width="55px" title="C"          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" width="55px" title="Haskell"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
+<img align="left" width="55px" title="p5.js"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
+<img align="left" width="55px" title="Processing" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" />
 
 <br><br><br><br>
-<img width="800px" src="output2.gif" />
+<img width="815px" src="output2.gif" />
 <br>
 `matrix digital rain made by me :)`
 
