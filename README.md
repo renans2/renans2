@@ -1,8 +1,10 @@
 # 👋 Howdy, I’m Renan Silva
 > **Click [here](https://renans2.github.io/my-front-end-projects/ "renans2.github.io/my-front-end-projects") to visit my website dedicated to `my-front-end-projects`, where I develop games and apps**
+
+> **Or [here](https://renans2.github.io/webgl-with-p5js/ "renans2.github.io/webgl-with-p5js") to check some 3D stuff using WEBGL**
 - 👀 I’m interested in **Software Development**
 - :school: I'm currently **studying Computer Science** at the University
-- :pencil: I’m currently learning **HTML/CSS/JS**, **Processing** & **P5**
+- :pencil: I’m currently learning **Python**, **C** & **P5.js**
 - :heart: I love to make **2D graphics/animations/generative art** and **develop my personal coding projects**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/renan-andrade-silva/ "LinkedIn")**
 
