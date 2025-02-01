@@ -11,6 +11,10 @@
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/renan-andrade-silva/ "LinkedIn")**
 
 #### :computer: I've been in touch with these technologies:
+<img align="left" width="55px" title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" width="55px" title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" width="55px" title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+
 <img align="left" width="55px" title="Git"        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" width="55px" title="Python"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="55px" title="Java"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
