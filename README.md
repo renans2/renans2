@@ -6,7 +6,7 @@
 > **Or [here](https://renans2.github.io/webgl-with-p5js/ "renans2.github.io/webgl-with-p5js") to check some 3D stuff using WEBGL**
 - 👀 I’m interested in **Software Development**
 - :school: I'm currently **studying Computer Science** at the University
-- :pencil: I’m currently learning **React**, **NodeJS** & **TailwindCSS**
+- :pencil: I’m currently learning **React**, **Angular**, **Express** & **Node**
 - :heart: I love to make **2D graphics/animations/generative art** and **develop my personal coding projects**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/renan-andrade-silva/ "LinkedIn")**
 
