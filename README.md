@@ -11,8 +11,8 @@
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/renan-andrade-silva/ "LinkedIn")**
 
 #### :computer: I've been in touch with these technologies:
-<img align="left" width="55px" title="TypeScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" width="55px" title="AngularJS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+<img align="left" width="55px" title="TypeScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" width="55px" title="AngularJS"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 <img align="left" width="55px" title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" width="55px" title="Express"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 <img align="left" width="55px" title="React"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
