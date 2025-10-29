@@ -1,9 +1,10 @@
 # 👋 Howdy, I’m Renan Silva
-> **Click [here](https://renans2.github.io/my-front-end-projects/ "renans2.github.io/my-front-end-projects") to visit my website dedicated to `my-front-end-projects`, where I develop games and apps**
+> **Click [here](https://renans2.github.io/word-counter/) to visit my word-counter app**
 > 
-> **[Here](https://renans2.github.io/sketching-with-p5js/ "renans2.github.io/sketching-with-p5js") to check some Generative Art using p5.js**
+> **Click [here](https://renans2.github.io/pickolor/) to visit my color picker app**
 > 
-> **Or [here](https://renans2.github.io/webgl-with-p5js/ "renans2.github.io/webgl-with-p5js") to check some 3D stuff using WEBGL**
+> **Click [here](https://renans2.github.io/my-front-end-projects/) to visit my first website dedicated to `my-front-end-projects`, where I developed games and apps**
+
 - 👀 I’m interested in **Front-End Development**
 - :school: I have a **Bachelor's degree in Computer Engineering**
 - :computer: I'm currently **working as Front-End Developer at Aptoide**
